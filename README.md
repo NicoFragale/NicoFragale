@@ -4,32 +4,6 @@ I’m a cybersecurity student with a natural curiosity for how things work and a
 
 ---
 
-### 🔧 Languages and Tools
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" style="padding-right:10px;" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rust.svg" title="Rust" alt="Rust" width="40" height="40" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40" style="padding-right:10px;" />
-
-  <!-- Operating Systems -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="40" height="40" style="padding-right:10px;" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="padding-right:10px;" />
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap" alt="Nmap" width="40" height="40" style="padding-right:10px;" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/portswigger.svg" title="Burp Suite" alt="Burp Suite" width="40" height="40" style="padding-right:10px;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/key.png" title="John the Ripper" alt="John the Ripper" width="40" height="40" style="padding-right:10px;" />
-</p>
-
----
-
 ## 🚀 Range's Journey
 
 My academic path began with a Bachelor's degree in Computer Science at *La Sapienza University of Rome*.  
