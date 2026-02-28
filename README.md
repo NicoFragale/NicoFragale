@@ -14,4 +14,4 @@ Looking ahead, I feel grateful for the path I’ve walked so far. These experien
 
 ---
 
-
+Tap here to know more about me: https://nicofragale.github.io
