@@ -1,10 +1,8 @@
 # :water_buffalo: Range 
 
-I’m a cybersecurity student with a natural curiosity for how things work and a passion for tinkering. Outside of my studies, I enjoy reading, practicing sports to stay active, and diving into new subjects just for the joy of learning. I see every challenge as an opportunity to grow, both technically and personally.
+I’m a cybersecurity student at the University of Pisa who enjoy studying, reading and practicing sports.
 
-Today I am in the second year of my Master's in *Cybersecurity* at the University of Pisa.  
-
-Looking ahead, I feel grateful for the path I’ve walked so far. These experiences have taught me perseverance, curiosity, and above all the joy of learning something new every day — lessons that go far beyond textbooks.
+One malware to rule them All!
 
 ---
 
